@@ -1,0 +1,9 @@
+# Ignore virtual environment
+iris_env/
+
+# Ignore dataset files (not essential to version control)
+*.csv
+
+# Bytecode files
+__pycache__/
+
